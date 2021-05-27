@@ -1,0 +1,20 @@
+---
+title: "DC Violent Crime"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Overview
+
+Analysis of Metropolitan Police Department data. 
+
+## Code
+
+Analysis conducted in R:
+
+* Use `renv::restore()` to recreate R enviroment
+
+* Run `01-analysis.R` to conduct analysis
